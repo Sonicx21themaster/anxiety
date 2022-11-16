@@ -163,7 +163,7 @@ s: Well, I saw someone retweet a GIF of a cat drinking milk yesterday.
 publish("act2",["dee",3]);
 ```
 
-s: They can't digest that ^crap^! Who would retweet *animal abuse* like that?
+s: They can't digest that stuff! Who would retweet *animal abuse* like that?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -898,9 +898,9 @@ attack("20p", _.a2_attack_3);
 
 (...1001)
 
-h: F^AAACK^!
+h: AAACK!
 
-h: F^ACK^ING F^ACK^-F^AKK^ITY *F^AAAAACK^*
+h: DARNING DARN-DARNGITY *DAAAAARN*
 
 `bb({body:"two_up", mouth:"smile", eyes:"happy"});`
 
@@ -912,7 +912,7 @@ b: Why were you ignoring me?
 
 `hong({body:"facepalm"})`
 
-h: Holy ^hell^, you absolute moron.
+h: Holy heck, you absolute moron.
 
 `hong({body:"facepalm_2"})`
 
@@ -925,7 +925,7 @@ hong({body:"facepalm_3"});
 bb({eyes:"normal"});
 ```
 
-h: I was trying to *starve* you, you sadistic ^asshole^!
+h: I was trying to *starve* you, you sadistic idiot!
 
 `hong({body:"smile", mouth:"smile"})`
 
@@ -1027,7 +1027,7 @@ attack("10p", "bad");
 
 # act2e
 
-h: ^ASSDAMMIT^.
+h: GODDAMMIT.
 
 `hong({body:"yell", mouth:"yell"})`
 
@@ -1041,11 +1041,11 @@ h: You're a useless evolutionary leftover, like my appendix or wisdom teeth!
 
 `hong({body:"yell", mouth:"yell"})`
 
-h: ^Hell^, this whole wolf metaphor is stupid! You're just a bunch of neuro-chemicals in my head.
+h: Heck, this whole wolf metaphor is stupid! You're just a bunch of neuro-chemicals in my head.
 
 `hong({body:"cross", mouth:"cross"})`
 
-h: So why should I listen to a worthless, irrational, non-existent piece of ^shit^ like you?!
+h: So why should I listen to a worthless, irrational, non-existent idiot like you?!
 
 `bb({eyes:"sad", MOUTH_LOCK:true})`
 
@@ -1332,7 +1332,7 @@ publish("act2",["party_hunter",12]);
 publish("act2",["party_hong",24]);
 ```
 
-r: Bottoms up, ^bee-yatch^!
+r: Bottoms up, Girl!
 
 ```
 hong({body:"hold"});
@@ -1436,7 +1436,7 @@ b: HUMAN PLEASE STOP
 
 h: Hehehe!
 
-h: And what are *you* gonna do about it, ^asshole^?
+h: And what are *you* gonna do about it, idiot?
 
 b: I'm so sorry, human.
 
@@ -1467,7 +1467,7 @@ hong({body:"forward", mouth:"forward"});
 sfx("charging");
 ```
 
-h: What's this ^crap^?
+h: What's this stuff?
 
 h: You're gonna yap more stupid *words* at me to--
 
@@ -1505,7 +1505,7 @@ setTimeout(function(){
 
 (...2500)
 
-h: WHAT THE ^HELL^ WAS THAT
+h: WHAT THE HECK WAS THAT
 
 b: I'm sorry. I needed to show you the consequences.
 
@@ -1657,7 +1657,7 @@ h2: ok sorry i have to run
 
 `publish("act2",["party_hunter",16]);`
 
-r: ^Damn^ it. The animal won today, huh?
+r: Darn it. The animal won today, huh?
 
 `publish("act2",["party_hunter",15]);`
 
@@ -1720,7 +1720,7 @@ h: I'm coming back to the party next weekend.
 
 h: The next time we fight, I'm not just going to *defeat* you...
 
-h: I'm going to ^fuck^ing *kill* you.
+h: I'm going to freaking *kill* you.
 
 ```
 Game.clearText();
