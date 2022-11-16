@@ -506,7 +506,7 @@ b: or even worse... WHITE BREAD
 {{/if}}
 
 {{if _.whitebread}}
-b: We'll overdose on so much meth and white bread they won't be able to fit our fat corpse into the cremation furnace!
+b: We'll overdose on so many drugs and white bread they won't be able to fit our fat corpse into the cremation furnace!
 {{/if}}
 
 {{if !_.whitebread}}
@@ -1231,7 +1231,7 @@ bb({mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2400;
 ```
 
-b: ♫ I wanna be, the ^slut^ti-est-
+b: ♫ I wanna be, the cree-pi-est-
 
 (...500)
 
@@ -1249,7 +1249,7 @@ bb({eyes:"pretty"});
 Game.FORCE_TEXT_DURATION = 2300;
 ```
 
-b: ♫ Thighs n' ^ass^, voluptuous breast-
+b: ♫ Thighs n' that, voluptuous breast-
 
 (...500)
 
@@ -1258,7 +1258,7 @@ bb({eyes:"fear", mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2000;
 ```
 
-b: ♫ with sweaty ^dick^ and balls!-
+b: ♫ with sweaty ---- and balls!-
 
 (...1000)
 
@@ -1349,7 +1349,7 @@ h:
 {{if _.hookuphole}}"we'll die alone"... {{/if}}
 {{if _.serialkiller}}"they're a serial killer"... {{/if}}
 {{if _.catmilk}}"cats can't digest milk"... {{/if}}
-{{if _.pokemon}}a ^crappy^ parody song... {{/if}}
+{{if _.pokemon}}a dumb parody song... {{/if}}
 
 h: i just want to live my life.
 
@@ -1425,11 +1425,11 @@ bb({eyes:"wat", mouth:"small"});
 hong({body:"2_fuck"});
 ```
 
-h: *^FUCK^.*
+h: *SHUT.*
 
 `hong({body:"2_you"});`
 
-h: YOU.
+h: UP.
 
 (...500)
 
