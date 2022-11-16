@@ -127,13 +127,13 @@ r: *Oh nooooo it's dangerous, don't do iiiiit.*
 publish("act3",["roofhunter",22]);
 ```
 
-r: But that's exactly why we need death-defying thrills! Party hard! Carpe diem! Snort coke off a hooker's ^ass^, #YOLO!
+r: But that's exactly why we need death-defying thrills! Party hard! Carpe diem! Snort coke off a giant bag, #YOLO!
 
 ```
 publish("act3",["roofhunter",10]);
 ```
 
-r: Show that animal we don't give two *^dick^s* about its ^bitch^ing! Jump in.
+r: Show that animal we don't give two *darns* about its freaking! Jump in.
 
 ```
 publish("act3",["roofhunter",11]);
@@ -162,13 +162,13 @@ r: I'm sorry, did you fall for that McMindfulness propaganda that claims feeling
 publish("act3",["roofhunter",17]);
 ```
 
-r: The ^assholes^ who run this world give the rest of *us* anxiety and depression,
+r: The idiots who run this world give the rest of *us* anxiety and depression,
 
 ```
 publish("act3",["roofhunter",18]);
 ```
 
-r: Then make TED Talks to tell us to "accept" being ^fucked^ over, and "embrace" that sadistic demon in our heads!
+r: Then make TED Talks to tell us to "accept" being fricked over, and "embrace" that sadistic demon in our heads!
 
 ```
 publish("act3",["roofhunter",6]);
@@ -219,7 +219,7 @@ publish("act3-alpha", ["transition",1]);
 publish("act3",["dd",6]);
 ```
 
-r: ^Fuck^ yeah! I believe in you, babe! Kill it! <3
+r: Frick yeah! I believe in you, babe! Kill it! <3
 
 (#act3a)
 
@@ -362,7 +362,7 @@ b: human, please...
 
 h: Oh I'm *sorry* Big Pharma doesn't approve of my self-medication.
 
-h: Look ^asshole^, we *all* have a way of shutting you the ^fuck^ up.
+h: Look idiot, we *all* have a way of shutting you the frick up.
 
 `hong({ body:"look_up", eyes:"look_up" });`
 
@@ -457,11 +457,11 @@ bb({ eyes:"sorry"});
 hong({ body:"yell_1", mouth:"yell", eyes:"blank" });
 ```
 
-h: Oh WOW is that the biggest *^fuck^ing* understatement of the century!
+h: Oh WOW is that the biggest *freaking* understatement of the century!
 
 `hong({ body:"yell_2" });`
 
-h: Yeah, you rotting pile of blood-coated ^shit^! You messed the ^fuck^ up!
+h: Yeah, you rotting pile of blood-coated poop! You messed the freak up!
 
 `hong({ body:"normal", mouth:"angry", eyes:"angry" });`
 
@@ -589,7 +589,7 @@ b: Rather than hate the guard-wolves for trying to protect them! So why can't yo
 
 `bb({ eyes:"normal" });`
 
-h: Wrong ^fuck^ing answer.
+h: Wrong freaking answer.
 
 (#act3_bad_3)
 
@@ -655,15 +655,15 @@ bb({ eyes:"sorry"});
 hong({ body:"yell_2", mouth:"yell", eyes:"blank" });
 ```
 
-h: NO. S^HIT^.
+h: NO. REALLY?.
 
 `hong({ body:"yell_1" });`
 
-h: ^GODDAMN^. It really took you this long to finally figure it out?!
+h: WOW. It really took you this long to finally figure it out?!
 
 `hong({ body:"cry", mouth:"cry", eyes:"blank" });`
 
-h: You could've saved us so much trouble, you big fluffy dumb^ass^. Why didn't you realize this sooner?...
+h: You could've saved us so much trouble, you big fluffy idiot. Why didn't you realize this sooner?...
 
 `_.apologized_for_hurt = true;`
 
