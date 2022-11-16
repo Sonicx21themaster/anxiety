@@ -215,7 +215,7 @@ hong({body:"hold", eyes:"normal", mouth:"normal"});
 bb({eyes:"normal"});
 ```
 
-h: So what the ^hell^ was the moral of this story?
+h: So what the heck was the moral of this story?
 
 `hong({body:"one_up", eyes:"annoyed"})`
 
@@ -239,7 +239,7 @@ h: What did we even *learn*? I *was* being stupid, my "friends" *were* using me,
 
 `hong({eyes:"annoyed_l", mouth:"narrow"});`
 
-h: Right. I don't think my insurance plan covers "being a dumb^ass^".
+h: Right. I don't think my insurance plan covers "being a dummy".
 
 `hong({eyes:"annoyed", mouth:"normal"});`
 
@@ -899,7 +899,7 @@ h: Could also learn to get more comfortable with rejection.
 
 `hong({ eyes:"normal" });`
 
-h: Or learn to know when people *aren't* rejecting us, they're just tired or have Resting ^Bitch^ Face.
+h: Or learn to know when people *aren't* rejecting us, they're just tired or have Resting Birch Face.
 
 ```
 hong({ body:"normal" });
@@ -932,7 +932,7 @@ h: "Social skills" mean nothing if we don't genuinely care *for* people.
 
 `hong({ body:"normal" });`
 
-h: Basically, just don't be a ^dick^.
+h: Basically, just don't be a jerk.
 
 `bb({ eyes:"annoyed", mouth:"smile" });`
 
@@ -940,7 +940,7 @@ b: That's a motivational poster caption right there.
 
 `hong({ body:"shrug", mouth:"narrow" });`
 
-h: “Don't Be A ^Dick^™”
+h: “Don't Be A Jerk™”
 
 (#act4_something_else)
 
@@ -1132,7 +1132,7 @@ hong({ eyes:"annoyed_l", mouth:"narrow" });
 bb({ eyes:"annoyed", mouth:"smile" });
 ```
 
-h: Y'know, all that "inter-personal skills" ^crap^ we see in counselor brochures.
+h: Y'know, all that "inter-personal skills" stuff we see in counselor brochures.
 
 (#act4_something_else)
 
